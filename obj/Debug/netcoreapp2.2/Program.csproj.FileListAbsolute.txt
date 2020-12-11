@@ -1,4 +1,0 @@
-C:\Users\student loser\Desktop\thursday\Allergies.Solution\obj\Debug\netcoreapp2.2\Program.csprojAssemblyReference.cache
-C:\Users\student loser\Desktop\thursday\Allergies.Solution\obj\Debug\netcoreapp2.2\Program.csproj.CoreCompileInputs.cache
-C:\Users\student loser\Desktop\thursday\Allergies.Solution\obj\Debug\netcoreapp2.2\Program.AssemblyInfoInputs.cache
-C:\Users\student loser\Desktop\thursday\Allergies.Solution\obj\Debug\netcoreapp2.2\Program.AssemblyInfo.cs
